@@ -950,7 +950,28 @@ textarea.contact-input {
     margin-block-end: 0;
   }
 
-  
+  .abs-img,
+  .abs-icon {
+    display: block;
+    position: absolute;
+  }
+
+  .abs-img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: inherit;
+    bottom: -150px;
+    left: -100px;
+  }
+
+  .abs-icon {
+    font-size: 5rem;
+    padding: 20px;
+    border-radius: inherit;
+  }
+
+
 
 
   /**
