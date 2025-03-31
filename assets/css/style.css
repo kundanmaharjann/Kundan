@@ -175,7 +175,7 @@ body {
 .container { padding-inline: 20px; }
 
 .btn {
-  color: var(--white);
+  color: var(--black);
   font-family: var(--ff-barlow);
   font-size: var(--fs-5);
   font-weight: var(--fw-600);
